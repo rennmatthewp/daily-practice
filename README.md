@@ -1,1 +1,1 @@
-Repository for Daily Practice excersizes
+Repository for Daily Practice excersises
